@@ -1,0 +1,14 @@
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFS Test.deps.json
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFS Test.runtimeconfig.json
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFS Test.runtimeconfig.dev.json
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFS Test.dll
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFS Test.pdb
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFSOnPremise.dll
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\bin\Debug\netcoreapp2.2\TFSOnPremise.pdb
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.csprojAssemblyReference.cache
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.csproj.CoreCompileInputs.cache
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.AssemblyInfoInputs.cache
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.AssemblyInfo.cs
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.csproj.CopyComplete
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.dll
+C:\Users\rania.gamal\Documents\Rania\TFS\TFS Test\obj\Debug\netcoreapp2.2\TFS Test.pdb

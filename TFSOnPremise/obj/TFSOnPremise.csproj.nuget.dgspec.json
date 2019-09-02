@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rania.gamal\\Documents\\Rania\\TFS\\TFSOnPremise\\TFSOnPremise.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rania.gamal\\Documents\\Rania\\TFS\\TFSOnPremise\\TFSOnPremise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rania.gamal\\Documents\\Rania\\TFS\\TFSOnPremise\\TFSOnPremise.csproj",
+        "projectName": "TFSOnPremise",
+        "projectPath": "C:\\Users\\rania.gamal\\Documents\\Rania\\TFS\\TFSOnPremise\\TFSOnPremise.csproj",
+        "packagesPath": "C:\\Users\\rania.gamal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rania.gamal\\Documents\\Rania\\TFS\\TFSOnPremise\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rania.gamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.TeamFoundationServer.Client": {
+              "target": "Package",
+              "version": "[16.153.0, )"
+            },
+            "Microsoft.VisualStudio.Services.Client": {
+              "target": "Package",
+              "version": "[16.153.0, )"
+            },
+            "Microsoft.VisualStudio.Services.InteractiveClient": {
+              "target": "Package",
+              "version": "[16.153.0, )"
+            },
+            "Microsoft.VisualStudio.Services.ServiceHooks.WebApi": {
+              "target": "Package",
+              "version": "[16.153.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

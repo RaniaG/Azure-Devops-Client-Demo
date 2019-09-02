@@ -1,0 +1,9 @@
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\bin\Debug\netcoreapp2.2\TFSOnPremise.deps.json
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\bin\Debug\netcoreapp2.2\TFSOnPremise.dll
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\obj\Debug\netcoreapp2.2\TFSOnPremise.csprojAssemblyReference.cache
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\obj\Debug\netcoreapp2.2\TFSOnPremise.csproj.CoreCompileInputs.cache
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\obj\Debug\netcoreapp2.2\TFSOnPremise.AssemblyInfoInputs.cache
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\obj\Debug\netcoreapp2.2\TFSOnPremise.AssemblyInfo.cs
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\bin\Debug\netcoreapp2.2\TFSOnPremise.pdb
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\obj\Debug\netcoreapp2.2\TFSOnPremise.dll
+C:\Users\rania.gamal\Documents\Rania\TFS\TFSOnPremise\obj\Debug\netcoreapp2.2\TFSOnPremise.pdb
